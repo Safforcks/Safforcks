@@ -22,7 +22,7 @@
   <img title="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" >
   <img title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   <img title="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" >
-  <img title="" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" >
+  <img title="VS Code" src="https://camo.githubusercontent.com/51d44bfc79caf3f4d00da9827171f377fb064a85b7d8d5bf809a4a42b5e6f9a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" >
 </div>
 
 <br>
