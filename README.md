@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ3aW5hcm45cTBld2lyZ2Z6MTEzaHA4eXU0ZjQxNTJmcTB6NTVrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2z956IUc3J0noEOXUL/giphy.gif" width="80"/>
 </h1>
 
-<img style="margin-top: 20px" align="right" width="130px" src="https://64.media.tumblr.com/efa9c31a801e7c54c62c37289d881c69/tumblr_mrw6ovcjPW1rfjowdo1_500.gif">
+<img align="right" width="130px" src="https://64.media.tumblr.com/efa9c31a801e7c54c62c37289d881c69/tumblr_mrw6ovcjPW1rfjowdo1_500.gif">
 <div>
 <p>Descrição</p>
 <ul>
@@ -12,17 +12,17 @@
 </ul>
 </div>
 
+## 🛠️ Tools I Know 
+<img align="right" width="170px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
 
-
-## 🛠️ Tools I Know
-**Linguagens & frameworks **  
+**Linguagens & frameworks**  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-**Bancos de dados**  
+**Bancos de dados**   
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
