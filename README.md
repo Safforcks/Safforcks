@@ -34,8 +34,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 My Github Stats
-<div>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safforcks&theme=dark">
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safforcks&theme=dark"> &nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=Safforcks&show_icons=true&theme=dark&include_all_commits=true">
 </div>
 
