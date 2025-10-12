@@ -13,7 +13,7 @@
 </div>
 
 ## 🛠️ Tools I Know 
-<img align="right" width="170px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
+<img align="right" width="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
 
 **Linguagens & frameworks**  
 
@@ -32,8 +32,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📊 My Github Stats
 <div align="center">
