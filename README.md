@@ -8,7 +8,7 @@
 <div>
 <p>Descrição</p>
 <ul>
-  <p>Sou Rainer Sacks, moro no Rio de Janeiro-RJ e curso Engenharia de Software no Instituto INFNET. Tenho interesse em desenvolvimento de software web e em sistemas baseados em dados. Já adquiri experiência com Python, SQL, HTML, CSS e JavaScript, além de utilizar Docker. Também me interesso por arquitetura de software e por soluções de tecnologia acessível. Por enquanto, deixo nos repositórios os exercícios e projetos que fiz no Instituto INFNET, como forma de registrar meu progresso acadêmico, revisar conteúdos e demonstrar minha evolução na área.</p>
+  <p>Sou Rainer Sacks, moro no Rio de Janeiro-RJ e curso Engenharia de Software no Instituto INFNET. Tenho interesse em desenvolvimento de software web e em sistemas baseados em dados. Já adquiri experiência com Python, SQL, HTML, CSS e JavaScript, além de utilizar Docker. Também me interesso por arquitetura de software e por soluções de tecnologia acessível. Por enquanto, deixo nos repositórios os projetos e outras criações que desenvolvo, como forma de registrar meu progresso acadêmico, revisar conteúdos e demonstrar minha evolução na área.</p>
 </ul>
 </div>
 
