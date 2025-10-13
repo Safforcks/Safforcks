@@ -13,7 +13,7 @@
 </div>
 
 ## 🛠️ Tools I Know 
-<img align="right" width="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
+<img align="right" width="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
 
 **Linguagens & frameworks**  
 
