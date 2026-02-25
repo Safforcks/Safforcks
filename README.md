@@ -8,7 +8,7 @@
 <div>
 <p>Descrição</p>
 <ul>
-  <p>Sou Rainer Sacks, moro no Rio de Janeiro-RJ e curso Engenharia de Software no Instituto INFNET. Tenho interesse em desenvolvimento de software web e em sistemas baseados em dados. Já adquiri experiência com Python, SQL, HTML, CSS e JavaScript, além de utilizar Docker. Também me interesso por arquitetura de software e por soluções de tecnologia acessível. Por enquanto, deixo nos repositórios os projetos e outras criações que desenvolvo, como forma de registrar meu progresso acadêmico, revisar conteúdos e demonstrar minha evolução na área.</p>
+  <p>Estudante de Engenharia de Software no Instituto INFNET, com foco em Engenharia de Dados e análise de dados. Experiência prática com Python, SQL e modelagem de bancos de dados, além de Excel avançado para análise e tratamento de informações. Interesso-me por visualização de dados com Power BI, organização estrutural de dados e construção de soluções baseadas em informação. Meus repositórios funcionam como portfólio técnico, registrando projetos e evolução contínua na área.</p>
 </ul>
 </div>
 
@@ -25,7 +25,8 @@
 **Bancos de dados**   
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Ferramentas & versionamento**  
 
@@ -36,10 +37,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+**Análise de Dados**
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ## 📊 My Github Stats
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safforcks&theme=dark"> &nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=Safforcks&show_icons=true&theme=dark&include_all_commits=true">
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Safforcks&show_icons=true&theme=dark"> &nbsp
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Safforcks&layout=compact&theme=dark">
 </div>
 
 #
