@@ -13,7 +13,7 @@
 </div>
 
 ## 🛠️ Tools I Know 
-<img align="right" width="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
+<img align="right" width="280px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
 
 **Linguagens & frameworks**  
 
@@ -21,6 +21,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**Frameworks & Bibliotecas**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Bancos de dados**   
 
