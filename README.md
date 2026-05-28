@@ -1,9 +1,14 @@
-<img width="100%" height="724" src="https://github.com/user-attachments/assets/cc748a17-3ad1-411d-8ccb-a4e4c0b4219b" />
+<img width="100%" src="https://github.com/user-attachments/assets/cc748a17-3ad1-411d-8ccb-a4e4c0b4219b" />
 
-## 🛠️ Tools I Know   
-<img align="right" width="280px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
+## 🎯 Foco atual
 
-**Linguagens & frameworks**  
+- Estudante de Engenharia de Software
+- Interesse em Desenvolvimento de Software, Dados e novas tecnologias
+- Desenvolvimento de projetos práticos com Python, SQL, JavaScript, React e Java
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens**  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,7 +39,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 My Github Stats
+## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Safforcks&show_icons=true&theme=dark"> &nbsp
   <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Safforcks&layout=compact&theme=dark">
@@ -43,10 +48,5 @@
 #
 
 <div align="center"> 
-  <a href="https://www.instagram.com/sorensacks/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp
   <a href="https://www.linkedin.com/in/rainer-sacks-726825349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-
-    
+</div>   
