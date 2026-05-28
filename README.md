@@ -1,18 +1,6 @@
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnluYmEwczgxajltMDFrY2VwdTBleG1zaTRtY2xzamsxOTNhYnJpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1XodwykSjVClnhLuV8/giphy.gif" width="35"/> &nbsp
-  Prazer, seja bem-vindo(a) 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ3aW5hcm45cTBld2lyZ2Z6MTEzaHA4eXU0ZjQxNTJmcTB6NTVrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2z956IUc3J0noEOXUL/giphy.gif" width="80"/>
-</h1>
+<img width="100%" height="724" src="https://github.com/user-attachments/assets/cc748a17-3ad1-411d-8ccb-a4e4c0b4219b" />
 
-<img align="right" width="130px" src="https://64.media.tumblr.com/efa9c31a801e7c54c62c37289d881c69/tumblr_mrw6ovcjPW1rfjowdo1_500.gif">
-<div>
-<p>Descrição</p>
-<ul>
-  <p>Estudante de Engenharia de Software no Instituto INFNET, com foco em Engenharia de Dados e análise de dados. Experiência prática com Python, SQL e modelagem de bancos de dados, além de Excel avançado para análise e tratamento de informações. Interesso-me por visualização de dados com Power BI, organização estrutural de dados e construção de soluções baseadas em informação. Meus repositórios funcionam como portfólio técnico, registrando projetos e evolução contínua na área.</p>
-</ul>
-</div>
-
-## 🛠️ Tools I Know 
+## 🛠️ Tools I Know   
 <img align="right" width="280px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3psbzR2bHdta3BjYTEydnYxbTFheDljdDZnMGw0Y2lxcTg2MnprNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3V0s5MV1kudEMP9C/giphy.gif">
 
 **Linguagens & frameworks**  
