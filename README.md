@@ -41,8 +41,8 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Safforcks&show_icons=true&theme=dark"> &nbsp;
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Safforcks&layout=compact&theme=dark">
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Safforcks&show_icons=true&theme=dark"> &nbsp;
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Safforcks&layout=compact&theme=dark"> 
 </div>
 
 #
